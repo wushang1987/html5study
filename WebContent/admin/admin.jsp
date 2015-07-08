@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<form action= "addPage.jsp" method="post">
+	<form action= "addpage" method="post">
 		<h2>新写一篇文章</h2>
 		标题：<input type="text" name="title">
 		作者：<input type="text" name="author">

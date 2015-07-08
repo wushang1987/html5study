@@ -27,6 +27,11 @@
             <result name="error">/index.jsp</result>
         </action>
          -->
+         <action name="addpage" class="example.LoginAction">
+         	<result name="success">/example/HelloWorld.jsp</result>
+            <result name="error">/index.jsp</result>
+         </action>
+         
          
     </package>
 	<!-- 

@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
 	<script src="js/jquery-1.11.3.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/test.js"></script>
 </head>
 <body>
 	<nav class="navbar navbar-default" role="navigation">
